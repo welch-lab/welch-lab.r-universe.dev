@@ -1,0 +1,21 @@
+[
+    {
+        "package": "rliger",
+        "url": "https://github.com/welch-lab/liger"
+    },
+    {
+        "package": "RcppPlanc",
+        "url": "https://github.com/welch-lab/RcppPlanc"
+    },
+    {
+        "package": "CytoSimplex",
+        "url": "https://github.com/welch-lab/CytoSimplex"
+    },
+    {
+        "package": "CytoSignal",
+        "url": "https://github.com/welch-lab/cytosignal"
+    },
+    {
+        "package": "SiNMFiD",
+        "url": "https://github.com/welch-lab/SiNMFiD"
+]
